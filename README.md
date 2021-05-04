@@ -1,4 +1,4 @@
-###HOW TO RUN
+### HOW TO RUN
 
 :compile server.c using 'gcc -o server server.c'
 
